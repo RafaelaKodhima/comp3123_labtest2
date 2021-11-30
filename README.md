@@ -16,7 +16,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ## Demo Image:
-![alt text](https://github.com/RafaelaKodhima/comp3123_labtest2/blob/blob/weather.PNG?raw=true)
+![alt text](https://github.com/RafaelaKodhima/comp3123_labtest2/blob/weather.PNG?raw=true)
 
 ### `npm run build`
 
